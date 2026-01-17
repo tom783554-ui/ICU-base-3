@@ -1,0 +1,11 @@
+{
+  "name": "icu-base-3-babylon",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/dev-server.js",
+    "build": "node scripts/build.js",
+    "preview": "node scripts/dev-server.js --root dist --port 4173"
+  }
+}
